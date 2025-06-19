@@ -1,0 +1,2 @@
+# WordleSolverPy
+Python Wordle Solver
